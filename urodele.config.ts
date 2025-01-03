@@ -1,12 +1,12 @@
 export const config = {
   github: {
-    login: "glink25", // github login name, not user name
-    repo: "test-for-anything", //"urodele",
+    login: "km", // github login name, not user name
+    repo: "km", //"urodele",
     logInUrl: "",
     logInAuthUrl: "",
   },
   head: {
-    title: "Urodele",
+    title: km_blog"Urodele",
   },
   footer: {
     copyright: "© Glink",
